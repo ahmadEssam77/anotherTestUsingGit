@@ -1,0 +1,1 @@
+any text just for testing git ignore file.
