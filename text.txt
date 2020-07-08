@@ -1,1 +1,3 @@
 any text just for testing git ignore file.
+
+this line i add it from git itself, so cool.
